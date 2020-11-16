@@ -33,7 +33,7 @@ package com.way.leetcode;
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  * @date 2020-11-13 10:02:38
  */
-public class Sword101 {
+public class Sword10I {
     public static void main(String[] args) {
         System.out.println(fib(44));
     }
